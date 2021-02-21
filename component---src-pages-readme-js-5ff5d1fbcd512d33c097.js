@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{Hl1M:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Zttt"),r=n("v1X+"),u=n("AMwC"),o=n("JTPa");t.default=function(e){return l.a.createElement(c.a,{location:e},l.a.createElement(r.a,null),l.a.createElement(u.b,null,l.a.createElement(u.e,null,l.a.createElement(o.c,null,"Readme"),l.a.createElement("p",null,"Here comes some desc."))))}}}]);
+//# sourceMappingURL=component---src-pages-readme-js-5ff5d1fbcd512d33c097.js.map
